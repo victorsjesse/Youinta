@@ -1,5 +1,7 @@
 # Youinta
 
+![Logotipo](https://drive.google.com/file/d/1_645dD9ca6HnzCTAYZfegPjm7MlETrHC/view?usp=drive_link)
+
 🎬🎥 Youinta: Assista, Analise, Amplifique! 🚀📊
 
 👋 Olá, YouTubers incríveis! Conheça o Youinta! 🌟 Sua nova ferramenta secreta para dominar o YouTube, agora com a poderosa Tecnologia Gemini do Google! 🎉
