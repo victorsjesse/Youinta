@@ -1,6 +1,5 @@
 # Youinta
-
-![Logotipo](https://drive.google.com/file/d/1_645dD9ca6HnzCTAYZfegPjm7MlETrHC/view?usp=drive_link)
+  ![Descrição da imagem](https://drive.google.com/uc?export=view&id=1_645dD9ca6HnzCTAYZfegPjm7MlETrHC)
 
 🎬🎥 Youinta: Assista, Analise, Amplifique! 🚀📊
 
