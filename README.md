@@ -20,3 +20,5 @@
 🎉 Você posta, Youinta analisa, e você amplifica! Simples assim! 🚀
 
 🎈Use o Youinta e faça seu canal brilhar mais que nunca🌟📹
+
+O Youinta está em desenvolvimento e a sua contribuição é muito bem vinda \0/
